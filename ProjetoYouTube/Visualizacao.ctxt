@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Visualizacao
+comment1.params=espectador\ filme
+comment1.target=Visualizacao(Gafanhoto,\ Video)
+comment2.params=
+comment2.target=Gafanhoto\ getEspectador()
+comment3.params=
+comment3.target=Video\ getFilme()
+comment4.params=espectador
+comment4.target=void\ setEspectador(Gafanhoto)
+comment5.params=filme
+comment5.target=void\ setFilme(Video)
+comment6.params=
+comment6.target=void\ avaliar()
+comment7.params=nota
+comment7.target=void\ avaliar(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
